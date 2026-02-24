@@ -16,6 +16,7 @@ Currently, I am diving deep into C++ and Object-Oriented Programming (OOP). My f
 
 ### 📂 Projects
 🖥️ Systems & Logic (C++)
+
 🧮 [OOP Calculator](https://github.com/abdalrahmannady/OOP-Calculator-CPP) - My first step into OOP and logic building.
 
 ✂️ [Rock Paper Scissors](https://github.com/abdalrahmannady/Rock-Paper-Scissors-Game) - A console-based game demonstrating round-based logic.
