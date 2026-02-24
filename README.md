@@ -17,16 +17,17 @@ Currently, I am diving deep into C++ and Object-Oriented Programming (OOP). My f
 ### 📂 Projects
 🖥️ Systems & Logic (C++)
 
-🧮 [OOP Calculator](https://github.com/abdalrahmannady/OOP-Calculator-CPP) - My first step into OOP and logic building.
+*  🧮 [OOP Calculator](https://github.com/abdalrahmannady/OOP-Calculator-CPP) - My first step into OOP and logic building.
 
-✂️ [Rock Paper Scissors](https://github.com/abdalrahmannady/Rock-Paper-Scissors-Game) - A console-based game demonstrating round-based logic.
+*  ✂️ [Rock Paper Scissors](https://github.com/abdalrahmannady/Rock-Paper-Scissors-Game) - A console-based game demonstrating round-based logic.
 
 🌐 Web Development (The Beginning)
 
-☕ [Toppy's Coffee](https://github.com/abdalrahmannady/Toppy-s-Coffee) - A web project focusing on CSS and UI design.
+* ☕ [Toppy's Coffee](https://github.com/abdalrahmannady/Toppy-s-Coffee) - A web project focusing on CSS and UI design.
 
 * ⚡ [Harry Potter Blog](https://github.com/abdalrahmannady/Harry-potter-blog) - Demonstrating structure and content management with HTML/CSS.
-* 
+
+  
 📈 Learning Progress
 
 I have successfully completed 9 levels of deep programming foundations and am currently working on Level 10 (OOP).
