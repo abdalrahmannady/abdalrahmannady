@@ -17,9 +17,13 @@ Currently, I am diving deep into C++ and Object-Oriented Programming (OOP). My f
 ### 📂 Projects
 🖥️ Systems & Logic (C++)
 
-*  🧮 [OOP Calculator](https://github.com/abdalrahmannady/OOP-Calculator-CPP) - My first step into OOP and logic building.
+  *  🧮 [OOP Calculator](https://github.com/abdalrahmannady/OOP-Calculator-CPP) - My first step into OOP and logic building.
 
-*  ✂️ [Rock Paper Scissors](https://github.com/abdalrahmannady/Rock-Paper-Scissors-Game) - A console-based game demonstrating round-based logic.
+  *  ✂️ [Rock Paper Scissors](https://github.com/abdalrahmannady/Rock-Paper-Scissors-Game) - A console-based game demonstrating round-based logic.
+
+ * 📅 [clsDate Library](https://github.com/abdalrahmannady/Cpp-Date-Class-OOP) - A high-performance, object-oriented date management library with operator overloading and static utility engines.
+
+ * 🔠 [clsString Library](https://github.com/abdalrahmannady/CPP-String-Library-OOP) - A custom-built C++ string manipulation library featuring advanced parsing, formatting, and search logic.
 
 🌐 Web Development (The Beginning)
 
@@ -30,7 +34,11 @@ Currently, I am diving deep into C++ and Object-Oriented Programming (OOP). My f
   
 📈 Learning Progress
 
-I have successfully completed 9 levels of deep programming foundations and am currently working on Level 10 (OOP).
+Software Engineering Foundations: Successfully completed 10 levels of deep programming logic and core concepts using C++.
+
+Object-Oriented Programming (OOP): Mastered OOP principles (Inheritance, Polymorphism, Abstraction, Encapsulation) with practical C++ implementations.
+
+Current Focus: Transitioning into Mobile Development using Flutter & Dart, applying software engineering best practices to build high-performance apps.
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/abdalrahman-younis-977a31268)
