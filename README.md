@@ -6,12 +6,14 @@
 ### 🚀 About Me
 "I am a passionate Self-Taught Programmer who began my journey in 2022. I started by exploring Web Development (HTML, CSS, JS, Bootstrap 5) to get a feel for the software world and understand how things are built.
 
-Currently, I am diving deep into C++ and Object-Oriented Programming (OOP). My focus is on building a rock-solid programming foundation and mastering the core logic of software engineering before specializing in Mobile Development (Flutter). I believe that a strong base is what separates a good developer from a great one."
-- 🌱 I’m currently learning **OOP Principles** and **Advanced C++ Concepts**.
-- 🎯 Goal: To build efficient and scalable software solutions.
+"I have successfully built a rock-solid programming foundation through deep studies in C++ and Object-Oriented Programming (OOP). After mastering core software engineering logic, I transitioned to mobile development, fully completing Dart and currently diving deep into Flutter."
+
+- 🚀 Finished: **Deep Programming Foundations (C++) with 500+ Problems Solved & OOP Principles**
+  - ⚡ Current Focus: **Mastering Flutter & Dart for Mobile Development**
+- 🎯 Goal: To build high-performance, efficient, and scalable mobile applications.
 
 ### 🛠️ Tech Stack
-- **Languages:** C++,Js.
+- **Languages:** C++,Js,Dart.
 - **Tools:** Git, GitHub, Visual Studio.
 
 ### 📂 Projects
