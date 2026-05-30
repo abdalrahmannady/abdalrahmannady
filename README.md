@@ -1,51 +1,51 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=cout+%3C%3C+%22Hello+World!%22;A+passionate+Self-Taught+Developer;Building+the+future+with+C%2B%2B" alt="Typing SVG" />
 </p>
+
 # Hi there, I'm Abdelrahman Younis 👋
 
 ### 🚀 About Me
 "I am a passionate Self-Taught Programmer who began my journey in 2022. I started by exploring Web Development (HTML, CSS, JS, Bootstrap 5) to get a feel for the software world and understand how things are built.
 
-"I have successfully built a rock-solid programming foundation through deep studies in C++ and Object-Oriented Programming (OOP). After mastering core software engineering logic, I transitioned to mobile development, fully completing Dart and currently diving deep into Flutter."
+I have successfully built a rock-solid programming foundation through deep studies in C++ and Object-Oriented Programming (OOP). After mastering core software engineering logic, I transitioned to mobile development, fully completing Dart and currently diving deep into Flutter."
 
 - 🚀 Finished: **Deep Programming Foundations (C++) with 500+ Problems Solved & OOP Principles**
-  - ⚡ Current Focus: **Mastering Flutter & Dart for Mobile Development**
+- ⚡ Current Focus: **Mastering Flutter & Dart for Mobile Development**
 - 🎯 Goal: To build high-performance, efficient, and scalable mobile applications.
 
 ### 🛠️ Tech Stack
-- **Languages:** C++,Js,Dart.
-- **Tools:** Git, GitHub, Visual Studio.
+- **Languages:** C++, JS, Dart.
+- **Frameworks:** Flutter 🚀
+- **Tools:** Git, GitHub
 
 ### 📂 Projects
+
+📱 Mobile Development (Flutter)
+* 👟 [Shoe Store App UI](https://github.com/abdalrahmannady/flutter-ecommerce-ui) - My first Flutter project! A modern E-commerce Shoe Store UI focusing on clean layout alignment, responsive GridViews, and interactive state management.
+
 🖥️ Systems & Logic (C++)
-
-  *  🧮 [OOP Calculator](https://github.com/abdalrahmannady/OOP-Calculator-CPP) - My first step into OOP and logic building.
-
-  *  ✂️ [Rock Paper Scissors](https://github.com/abdalrahmannady/Rock-Paper-Scissors-Game) - A console-based game demonstrating round-based logic.
-
- * 📅 [clsDate Library](https://github.com/abdalrahmannady/Cpp-Date-Class-OOP) - A high-performance, object-oriented date management library with operator overloading and static utility engines.
-
- * 🔠 [clsString Library](https://github.com/abdalrahmannady/CPP-String-Library-OOP) - A custom-built C++ string manipulation library featuring advanced parsing, formatting, and search logic.
+* 🧮 [OOP Calculator](https://github.com/abdalrahmannady/OOP-Calculator-CPP) - My first step into OOP and logic building.
+* ✂️ [Rock Paper Scissors](https://github.com/abdalrahmannady/Rock-Paper-Scissors-Game) - A console-based game demonstrating round-based logic.
+* 📅 [clsDate Library](https://github.com/abdalrahmannady/Cpp-Date-Class-OOP) - A high-performance, object-oriented date management library with operator overloading and static utility engines.
+* 🔠 [clsString Library](https://github.com/abdalrahmannady/CPP-String-Library-OOP) - A custom-built C++ string manipulation library featuring advanced parsing, formatting, and search logic.
 
 🌐 Web Development (The Beginning)
-
 * ☕ [Toppy's Coffee](https://github.com/abdalrahmannady/Toppy-s-Coffee) - A web project focusing on CSS and UI design.
-
 * ⚡ [Harry Potter Blog](https://github.com/abdalrahmannady/Harry-potter-blog) - Demonstrating structure and content management with HTML/CSS.
 
-  
-📈 Learning Progress
+---
 
-Software Engineering Foundations: Successfully completed 10 levels of deep programming logic and core concepts using C++.
-
-Object-Oriented Programming (OOP): Mastered OOP principles (Inheritance, Polymorphism, Abstraction, Encapsulation) with practical C++ implementations.
-
-Current Focus: Transitioning into Mobile Development using Flutter & Dart, applying software engineering best practices to build high-performance apps.
+### 📈 Learning Progress
+* **Software Engineering Foundations:** Successfully completed 10 levels of deep programming logic and core concepts using C++.
+* **Object-Oriented Programming (OOP):** Mastered OOP principles (Inheritance, Polymorphism, Abstraction, Encapsulation) with practical C++ implementations.
+* **Current Focus:** Transitioning into Mobile Development using Flutter & Dart, applying software engineering best practices to build high-performance apps.
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/abdalrahman-younis-977a31268)
 - [Email](mailto:toppynady291@gmail.com)
-  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+---
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
